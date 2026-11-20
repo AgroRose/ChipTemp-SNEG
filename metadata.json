@@ -1,0 +1,8 @@
+{
+  "uuid": "ChipTemp@SNEG",
+  "name": "ChipTemp by SNEG",
+  "description": "Real-time CPU and GPU temperature monitor with live graph for GNOME Shell panel",
+  "url": "https://github.com/infaman/ChipTemp-SNEG",
+  "shell-version": ["45", "46", "47", "48", "49", "50", "51"],
+  "version": 1
+}

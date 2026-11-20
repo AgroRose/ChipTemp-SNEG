@@ -1,0 +1,6 @@
+*.zip
+*.pot
+locale/
+.DS_Store
+Thumbs.db
+*.swp
